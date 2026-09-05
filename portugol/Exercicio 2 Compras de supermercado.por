@@ -3,7 +3,7 @@ programa {
   cadeia produto
   real valor
 
-  escreva("Quantos procutos você está comprando: ")
+  escreva("Quantos produtos você está comprando: ")
   leia(produto)
 
   escreva("Qual o valor total dos produtos: ")
@@ -20,3 +20,15 @@ programa {
   }
 
 }
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 85; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
