@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio3VerificacaoDeMaioridade {
+public class Exercicio03VerificacaoDeMaioridade {
     public static void main(String[] args){
 
         String nome;
