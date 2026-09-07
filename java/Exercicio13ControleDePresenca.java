@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio13ControleDePresença {
+public class Exercicio13ControleDePresenca {
 
     public static void main(String[] args){
 
