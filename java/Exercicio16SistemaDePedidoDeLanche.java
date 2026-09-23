@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExercicioExtra16SistemaDePedidoDeLanche {
+public class Exercicio16SistemaDePedidoDeLanche {
 
 
     public static void main(String[] args){

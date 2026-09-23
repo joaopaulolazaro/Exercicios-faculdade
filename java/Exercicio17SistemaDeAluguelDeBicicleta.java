@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExercicioExtra17SistemaDeAluguelDeBicicleta {
+public class Exercicio17SistemaDeAluguelDeBicicleta {
 
     static final double VALOR_HORA = 8.00;
      public static void main(String[] args){
@@ -18,7 +18,7 @@ public class ExercicioExtra17SistemaDeAluguelDeBicicleta {
 
          total = horas * VALOR_HORA;
 
-         if( total > 50){
+         if(total > 50){
              System.out.println(" Cliente premium.");
          }
          else {
